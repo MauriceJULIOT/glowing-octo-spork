@@ -1,8 +1,4 @@
-
-
-![](https://github.com/MauriceJULIOT/glowing-octo-spork/blob/master/logos/murakami_dob4.JPG)
 ![](https://mauricejuliot.github.io/glowing-octo-spork/logos/murakami_dob4.JPG)
-
 
 
 Welcome to my documentation site
